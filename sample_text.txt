@@ -1,0 +1,4 @@
+Python is a popular programming language.
+Python is used for data analysis, automation, web development, and machine learning.
+A word cloud helps us quickly notice which words appear most often in a document.
+This project uses Python to clean text, count words, and create a word cloud.
