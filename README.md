@@ -1,3 +1,6 @@
+# word-cloud-generator
+A Python Streamlit application that generates word clouds from text
+
 # Word Cloud Generator
 
 A beginner-friendly Python mini-project built with Streamlit.
